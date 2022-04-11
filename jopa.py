@@ -27,4 +27,3 @@ while add_check == 'y':
 else:
     users_get()
 
-users_get()
